@@ -71,7 +71,7 @@ Follow these steps to set up and run the project locally:
 
 ### **Prerequisites**
 - Install [.NET SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
-- Install [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- Install [SQLite](https://sqlite.org/download.html)
 
 ### **Steps**
 1. **Clone the Repository**:
